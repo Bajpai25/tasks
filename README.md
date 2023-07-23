@@ -14,3 +14,6 @@ https://netflixclone-gamma-five.vercel.app/
 This is my final major project which includes having a sign in feature where i have used Auth0 for
 authentication purpose. I have used tailwind css and used react-router-dom to navigate between various pages, 
 I have also used various react hooks like usestate,useref.
+l understand that the clone-based project created by me is intended solely for
+educational purposes.
+
