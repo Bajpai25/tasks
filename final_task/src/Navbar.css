@@ -1,0 +1,35 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    background-color: transparent;
+}
+
+.nav_logo{
+    object-fit: contain;
+    top: auto;
+}
+.login{
+    margin: 5px;
+    background-color: red;
+    color:white;
+    font-size: larger;
+    font-weight: 500;
+    width: 100px;
+    box-shadow: whitesmoke 2px 2px 2px 2px;
+}
+.logout{
+    margin: 5px;
+    background-color: red;
+    color:white;
+    font-size: larger;
+    font-weight: 500;
+    width: 100px;
+    box-shadow: whitesmoke 2px 2px 2px 2px;
+}
+.user{
+    padding: 10px;
+    font-size: larger;
+    font-weight: 600;
+    color: white;
+}
